@@ -33,7 +33,7 @@
  font-size:1.6rem;
  margin-left: -1px;
  border-color: transparent;
- border-style: none;
+ border: none;
  padding:9px;
 }
 .navbar ul{
